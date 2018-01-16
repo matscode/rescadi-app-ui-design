@@ -1,5 +1,12 @@
 {
-  "expo": {
-    "sdkVersion": "23.0.0"
-  }
+    "expo": {
+        "name": "Rescadi",
+        "icon": "./resource/rescadi.jpg",
+        "version": "1.0.0",
+        "slug": "rescadi",
+        "sdkVersion": "23.0.0",
+        "android": {
+            "package": "com.tecrum.rescadi"
+        }
+    }
 }
